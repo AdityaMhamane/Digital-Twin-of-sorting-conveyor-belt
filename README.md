@@ -58,7 +58,10 @@ If I were to revisit the project, I would try using Python's `pySerial` library 
 
 ### Start, pause, and stop control
 
-<img src="Images&Gifs/StartStop.gif" alt="Start, pause, and stop control of conveyor" width="100%" />
+<figure align="center">
+  <img src="Images&Gifs/StartStop.gif" alt="Start, pause, and stop control of conveyor" width="100%" />
+  <figcaption>Controlling Conveyor belt(Start and Stop of belt) using CoppeliaSim's Simulation User Interface (resume, pause, and end buttons)</figcaption>
+</figure>
 
 ### Red block sorting
 
