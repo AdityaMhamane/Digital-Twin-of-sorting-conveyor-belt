@@ -56,6 +56,8 @@ If I were to revisit the project, I would try using Python's `pySerial` library 
 
 ## Demo
 
+**NOTE** :- This Demo section contains GIFs of Video Demo which might take to render in browser.
+
 ### Start, pause, and stop control
 
 <figure align="center">
